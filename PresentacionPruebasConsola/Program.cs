@@ -12,8 +12,10 @@ namespace PresentacionPruebasConsola
         static void Main(string[] args)
         {
             Console.WriteLine("Hola desde consola");
-
+            
             Console.WriteLine(Pruebas.Sumar(1, 21));
+            Console.WriteLine("Hola desde consola yo Angel ");
+            Console.WriteLine(Pruebas.Sumar(234, 54));
         }
     }
 }
