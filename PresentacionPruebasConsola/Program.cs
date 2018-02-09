@@ -13,7 +13,7 @@ namespace PresentacionPruebasConsola
         {
             Console.WriteLine("Hola desde consola");
 
-            Console.WriteLine(Pruebas.Sumar(1, 2));
+            Console.WriteLine(Pruebas.Sumar(1, 21));
         }
     }
 }
