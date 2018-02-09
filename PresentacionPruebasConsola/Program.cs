@@ -10,7 +10,7 @@ namespace PresentacionPruebasConsola
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola desde consola");
+            Console.WriteLine("Hola desde consola yo Angel ");
         }
     }
 }
