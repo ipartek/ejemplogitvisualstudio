@@ -16,6 +16,7 @@ namespace PresentacionPruebasConsola
             Console.WriteLine(Pruebas.Sumar(1, 21));
             Console.WriteLine("Hola desde consola yo Angel ");
             Console.WriteLine(Pruebas.Sumar(234, 54));
+            Console.WriteLine("Hola desde consola yo asier");
         }
     }
 }
